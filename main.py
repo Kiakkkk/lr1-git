@@ -17,5 +17,5 @@ print(fib_sequence[index], end=' ')
 index += 1
 print() # Переход на новую строку
 # Укажите количество строк пирамиды
-rows = 5
+rows = 15
 print_fibonacci_pyramid(rows)
